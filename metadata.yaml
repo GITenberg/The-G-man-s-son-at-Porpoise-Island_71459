@@ -1,11 +1,16 @@
 _repo: The-G-man-s-son-at-Porpoise-Island_71459
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 71459-h/images/cover.jpg
 creator:
   author:
     agent_name: Robinson, Warren F.
     gutenberg_agent_id: '56249'
     url: http://www.gutenberg.org/2009/agents/56249
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71459#The-G-man-s-son-at-Porpoise-Island
 gutenberg_issued: '2023-08-21'
 identifiers:
   gutenberg: '71459'
